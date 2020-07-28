@@ -1,0 +1,10 @@
+name: TREE
+version: 1.0
+main: TREE
+description: lets you change your name to "Tree"
+
+commands:
+    tree:
+        usage: /tree
+    untree:
+        usage: /untree
